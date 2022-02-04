@@ -1,0 +1,21 @@
+{
+  "name": "labshub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "Open": "npx cypress open",
+    "Run": "npx cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^6.0.0-alpha.5",
+    "cypress": "^9.4.1",
+    "faker": "^6.6.6"
+  },
+  "dependencies": {
+    "cypress-file-upload": "^5.0.8"
+  }
+}
